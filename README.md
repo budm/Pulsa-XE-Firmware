@@ -1,4 +1,6 @@
-# Marlin 3D Printer Firmware
+# Pulsa XE Firmware
+
+This repository contains my port of Marlin 2.0 source code and the development versions of the firmware running on my Pulse XE. Time permitting I may add features.
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
